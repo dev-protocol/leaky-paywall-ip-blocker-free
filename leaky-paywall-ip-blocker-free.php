@@ -5,8 +5,8 @@
  * Plugin URI: https://www.zeen101.com
  * Description: Stop users from resetting their article count in an Incognito window
  * Version: 1.0.0
- * Author: Andrey K.
- * Author URI: https://bllue-portfolio.000webhostapp.com/
+ * Author: wpwebmaster0313.
+ * Author URI:
  * Text Domain: lp-ip-blocker
  * License: GPL2
  */
